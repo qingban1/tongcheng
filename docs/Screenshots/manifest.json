@@ -1,0 +1,58 @@
+[
+  {
+    "attachments": [
+      {
+        "configurationName": "Test Scheme Action",
+        "deviceId": "F2957E08-C7C0-469B-91D4-92F2120B179B",
+        "deviceName": "Codex iPhone 17 Pro",
+        "exportedFileName": "89E3633E-D5DD-4ECA-A57E-A6C828D180CB.png",
+        "isAssociatedWithFailure": false,
+        "suggestedHumanReadableName": "mine_0_B74C77FD-6EAB-47D1-8658-DE6ABFBE3480.png",
+        "timestamp": 1793857830.981,
+        "deliveryFileName": "05-我的.png"
+      },
+      {
+        "configurationName": "Test Scheme Action",
+        "deviceId": "F2957E08-C7C0-469B-91D4-92F2120B179B",
+        "deviceName": "Codex iPhone 17 Pro",
+        "exportedFileName": "B53C97F8-DEA3-4D08-9ABE-D796718A8942.png",
+        "isAssociatedWithFailure": false,
+        "suggestedHumanReadableName": "hike_0_EF609F85-8374-4E94-B47E-B6066868EE3A.png",
+        "timestamp": 1793857830.452,
+        "deliveryFileName": "04-徒步.png"
+      },
+      {
+        "configurationName": "Test Scheme Action",
+        "deviceId": "F2957E08-C7C0-469B-91D4-92F2120B179B",
+        "deviceName": "Codex iPhone 17 Pro",
+        "exportedFileName": "AE1EE603-A835-49F5-AB05-6AE26579D23F.png",
+        "isAssociatedWithFailure": false,
+        "suggestedHumanReadableName": "records_0_EDB08BDA-9C52-466A-85CF-EA84A114CF04.png",
+        "timestamp": 1793857829.92,
+        "deliveryFileName": "03-记录.png"
+      },
+      {
+        "configurationName": "Test Scheme Action",
+        "deviceId": "F2957E08-C7C0-469B-91D4-92F2120B179B",
+        "deviceName": "Codex iPhone 17 Pro",
+        "exportedFileName": "35563121-648C-461B-B9C4-94A100A18151.png",
+        "isAssociatedWithFailure": false,
+        "suggestedHumanReadableName": "meet_0_ADD6CE37-8005-47C4-BFD9-1CB0C103D812.png",
+        "timestamp": 1793857829.278,
+        "deliveryFileName": "02-约行.png"
+      },
+      {
+        "configurationName": "Test Scheme Action",
+        "deviceId": "F2957E08-C7C0-469B-91D4-92F2120B179B",
+        "deviceName": "Codex iPhone 17 Pro",
+        "exportedFileName": "1F4F5449-DEAA-4443-AD97-206270EAF861.png",
+        "isAssociatedWithFailure": false,
+        "suggestedHumanReadableName": "square_0_CCEDE51B-567A-4395-9F98-7C0B7BDF0462.png",
+        "timestamp": 1793857821.387,
+        "deliveryFileName": "01-广场.png"
+      }
+    ],
+    "testIdentifier": "TYAppUITests/testFiveTabsAndNativeScreens",
+    "testIdentifierURL": "test://com.apple.xcode/Tuyu/TuyuUITests/TYAppUITests/testFiveTabsAndNativeScreens"
+  }
+]
