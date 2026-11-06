@@ -1,6 +1,0 @@
-.build/
-.build-device/
-*.xcresult/
-*.log
-xcuserdata/
-.DS_Store

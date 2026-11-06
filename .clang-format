@@ -1,7 +1,0 @@
-BasedOnStyle: LLVM
-IndentWidth: 4
-ObjCBlockIndentWidth: 4
-ColumnLimit: 110
-SortIncludes: Never
-AllowShortFunctionsOnASingleLine: None
-BreakBeforeBraces: Attach
